@@ -5,4 +5,5 @@ This is my first project on data visualization by using SQL DBMS and Power BI fr
 ![fact and dimension table](https://user-images.githubusercontent.com/80580833/213879350-3176d7af-920f-44e9-a622-b5e8d1109667.png)
 ![f and d table 2](https://user-images.githubusercontent.com/80580833/213879352-844e6e48-fc1b-4963-a95f-cf7bb91116ba.png)
 ![DONUT CHART](https://user-images.githubusercontent.com/80580833/213879354-8ab774d6-76f9-40a1-976a-ca1f749c44ca.png)
-![Uploading full mode.png…]()
+
+![full mode](https://user-images.githubusercontent.com/80580833/213879545-028914f2-33da-455f-8ec7-484a75b5c617.png)
